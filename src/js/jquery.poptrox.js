@@ -1,4 +1,4 @@
-/* jquery.poptrox.js v3.0.1 | (c) n33 | n33.co | MIT licensed */
+/* jquery.poptrox.js v3.0.2 | (c) n33 | n33.co | MIT licensed */
 
 (function ($) {
     // Disables selection
