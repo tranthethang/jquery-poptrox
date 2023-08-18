@@ -1,6 +1,6 @@
 {
   "name": "jquery-poptrox",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "A lightbox gallery plugin for jQuery.",
   "main": "src/js/jquery.poptrox.js",
   "scripts": {
